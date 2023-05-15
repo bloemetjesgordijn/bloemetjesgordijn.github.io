@@ -1,4 +1,6 @@
 {
-    "eerste": "bb",
-    "tweede": "aa"
+    "blocked": false,
+    "base_url": "bb",
+    "path": "aa",
+    "jquery_version"
 }
