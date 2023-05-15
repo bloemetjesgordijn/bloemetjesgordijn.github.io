@@ -1,5 +1,5 @@
 {
-    "blocked": true,
+    "blocked": false,
     "base_url": "https://new.myfreemp3juices.cc",
     "path": "/api/api_search.php?callback=",
     "jquery_version": "jQuery2130996268872647724_1681673767647"
