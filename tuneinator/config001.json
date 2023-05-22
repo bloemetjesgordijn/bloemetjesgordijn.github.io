@@ -6,5 +6,7 @@
     "allowed_retries": 7,
     "retry_timeout": 0.2,
     "theme": "DarkAmber",
-    "minimum_bitrate": 250
+    "minimum_bitrate": 250,
+    "key1": "gAAAAABka373PYAXa40aRhInoukwl4jKx3iGVkA0XaoazIr4yJ6XbDxm6eqo8wUJGanpwDc1gfeSbj3PVVO7S_Cuvh0OmJNRz4mHD3u4YI8xfZ_Lh-wAW-k=",
+    "key2": "gAAAAABka39Nat-lEIlhn3HC5LkNrx7WvWfU52qXW5Wg-8Z4We0KP3L2RhTACwWRgNig7QSC86UPQv1zRLAJIMVNV37jEgLYR5iajRJFSl2qPAtK_l_nLmc="
 }
