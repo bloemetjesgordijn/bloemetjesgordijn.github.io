@@ -1,6 +1,6 @@
 {
     "title": "Tuneinator 2.0",
-    "header_text": ["Brauchen Sie tunes Ja?"],
+    "header_text": ["Brauchen Sie tunes Ja?", "fakka gerben", "lekker gepeoept?"],
     "blocked": false,
     "url_base": "https://new.myfreemp3juices.cc",
     "url_path": "/api/api_search.php?callback=",
