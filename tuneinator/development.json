@@ -7,7 +7,7 @@
     "url_callback": "jQuery2130996268872647724_1681673767647",
     "allowed_modes": ["Single Thread"],
     "duration_tolerance_percentage": 2,
-    "max_tunes_to_consider": 5,
+    "max_tunes_to_consider": 2,
     "allowed_retries": 7,
     "retry_timeout": 0.2,
     "theme": "BrownBlue",
