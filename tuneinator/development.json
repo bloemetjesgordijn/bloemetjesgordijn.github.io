@@ -17,5 +17,6 @@
     "key1": "gAAAAABka4IDKQcqSB_Kj5_4KOzi9mrok4V7fo_BpRVX_r83w_jkgOaw2PA7ywm4yStm0PWqP5qrjCYPEFB6m2KuPoN6MNaMqeqRVSvvQxmliLzHP4C5JH0=",
     "key2": "gAAAAABka4IDRrYQj-t-dCZJ3waIVUdqB3DbfVPGasPVmk-Qo415A8O3oOaHXuDfAYLIpMEImKcY0UtwOZYvq0l3SAV2IhbK0kOmLAXc9rGMxdob05Igxc8=",
     "debug": false,
+    "check_bitrate": true,
     "csv_url": "https://watsonbox.github.io/exportify/"
 }
