@@ -2,7 +2,7 @@
     "title": "Tuneinator 2.0",
     "header_text": ["Brauchen Sie tunes Ja?", "Hallo Sander", "Hallo Gerben"],
     "blocked": false,
-    "url_base": "https://new.myfreemp3juices.cc",
+    "url_base": "https://2024.myfreemp3juices.cc/",
     "url_path": "/api/api_search.php?callback=",
     "url_callback": "jQuery2130996268872647724_1681673767647",
     "allowed_modes": ["Single Thread", "Bounded Multithreading", "Unbounded Multithreading"],
