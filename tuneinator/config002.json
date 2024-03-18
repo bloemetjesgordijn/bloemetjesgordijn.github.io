@@ -1,7 +1,8 @@
 {
     "title": "Tuneinator 2.2",
     "header_text": ["Brauchen Sie Tunes Ja?"],
-    "blocked": false,
+    "blocked": true,
+    "blocked_text": "You should not see this popup",
     "base_url": "https://2024.myfreemp3juices.cc//api/api_search.php?callback=jQuery2130996268872647724_1681673767647",
     "allowed_modes": ["Single Thread", "Bounded Multithreading", "Unbounded Multithreading"],
     "duration_tolerance_percentage": 2,
