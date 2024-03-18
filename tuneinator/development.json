@@ -3,7 +3,7 @@
     "header_text": ["Brauchen Sie Tunes Ja?"],
     "theme": ["TealMono", "BrownBlue", "DarkTeal12", "DarkBlue14", "Green"],
     "blocked": true,
-    "blocked_text": "You should not see this popup",
+    "blocked_text": "Creator has disabled this version of Tuneinator. \n https://www.example.com/page.html",
     "base_url": "https://2024.myfreemp3juices.cc//api/api_search.php?callback=jQuery2130996268872647724_1681673767647",
     "allowed_modes": ["Single Thread", "Bounded Multithreading", "Unbounded Multithreading"],
     "duration_tolerance_percentage": 2,
