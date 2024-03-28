@@ -17,5 +17,6 @@
     "debug": true,
     "check_bitrate": true,
     "csv_url": "https://watsonbox.github.io/exportify/",
-    "min_frequency": 18000
+    "min_frequency": 18000,
+    "spotify_url_regex_pattern": "https:\\/\\/open\\.spotify\\.com\\/playlist\\/.*"
 }
