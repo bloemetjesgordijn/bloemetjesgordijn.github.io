@@ -18,7 +18,7 @@
             "duration_tolerance": 0.2,
             "max_tunes_to_consider": 2,
             "allowed_error_retries": 7,
-            "retry_timeout": 9,
+            "retry_timeout": 0.1,
             "trim_artists": true
         },
     "downloading":
