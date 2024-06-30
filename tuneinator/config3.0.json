@@ -1,23 +1,37 @@
 {
-    "title": "Tuneinator 3.0",
-    "header_text": ["Brauchen Sie Tunes Ja?"],
-    "theme": ["TealMono", "BrownBlue", "DarkTeal12", "DarkBlue14", "Green"],
-    "blocked": false,
-    "blocked_text": "This version of Tuneinator has been disabled.",
-    "base_url": "https://2024.myfreemp3juices.cc//api/api_search.php",
-    "allowed_modes": ["Single Thread", "Bounded Multithreading", "Unbounded Multithreading"],
-    "default_mode": "Unbounded Multithreading",
-    "duration_tolerance": 0.2,
-    "max_tunes_to_consider": 2,
-    "allowed_retries": 7,
-    "retry_timeout": 0.1,
-    "naming_convention": "{title} - {artist} {tempo}",
-    "key1": "gAAAAABka4IDKQcqSB_Kj5_4KOzi9mrok4V7fo_BpRVX_r83w_jkgOaw2PA7ywm4yStm0PWqP5qrjCYPEFB6m2KuPoN6MNaMqeqRVSvvQxmliLzHP4C5JH0=",
-    "key2": "gAAAAABka4IDRrYQj-t-dCZJ3waIVUdqB3DbfVPGasPVmk-Qo415A8O3oOaHXuDfAYLIpMEImKcY0UtwOZYvq0l3SAV2IhbK0kOmLAXc9rGMxdob05Igxc8=",
     "debug": false,
-    "check_bitrate": true,
-    "csv_url": "https://watsonbox.github.io/exportify/",
-    "min_frequency": 18000,
-    "spotify_url_regex_pattern": "https:\\/\\/open\\.spotify\\.com\\/playlist\\/.*",
-    "include_tempo": false
+    "frontend":
+        {
+            "title": "Tuneinator 3.0",
+            "header_text": ["Brauchen Sie Tunes Ja?"],
+            "theme": ["TealMono", "BrownBlue", "DarkTeal12", "DarkBlue14", "Green"],
+            "blocked": false,
+            "blocked_text": "This version of Tuneinator has been disabled.",
+            "allowed_modes": ["Single Thread", "Bounded Multithreading", "Unbounded Multithreading"],
+            "default_mode": "Unbounded Multithreading",
+            "csv_url": "https://watsonbox.github.io/exportify/"
+        },
+    "mfmp":
+        {
+            "url": "https://2024.myfreemp3juices.cc//api/api_search.php",
+            "duration_tolerance": 0.2,
+            "max_tunes_to_consider": 2,
+            "allowed_retries": 7,
+            "retry_timeout": 0.1
+        },
+    "downloading":
+        {
+            "check_bitrate": true,
+            "min_frequency": 18000,
+            "naming_convention": "{title} - {artist} {tempo}"
+        },
+    "logging":
+        {
+            "key1": "gAAAAABka4IDKQcqSB_Kj5_4KOzi9mrok4V7fo_BpRVX_r83w_jkgOaw2PA7ywm4yStm0PWqP5qrjCYPEFB6m2KuPoN6MNaMqeqRVSvvQxmliLzHP4C5JH0=",
+            "key2": "gAAAAABka4IDRrYQj-t-dCZJ3waIVUdqB3DbfVPGasPVmk-Qo415A8O3oOaHXuDfAYLIpMEImKcY0UtwOZYvq0l3SAV2IhbK0kOmLAXc9rGMxdob05Igxc8="
+        },
+    "spotify":
+        {
+            "spotify_url_regex_pattern": "https:\\/\\/open\\.spotify\\.com\\/playlist\\/.*",
+        }
 }
