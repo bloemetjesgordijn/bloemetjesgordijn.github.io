@@ -14,7 +14,7 @@
     "mfmp":
         {
             "url": "https://2024.myfreemp3juices.cc//api/api_search.php",
-            "response_parsing_pattern": "{\"response\":.*})",
+            "response_parsing_pattern": "\\{\"response\":.*\\}\\);",
             "duration_tolerance": 0.2,
             "max_tunes_to_consider": 2,
             "allowed_retries": 7,
