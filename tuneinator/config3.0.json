@@ -11,7 +11,7 @@
             "default_mode": "Unbounded Multithreading",
             "csv_url": "https://watsonbox.github.io/exportify/"
         },
-    "mfmp":
+    "api":
         {
             "url": "https://2024.myfreemp3juices.cc//api/api_search.php",
             "response_parsing_pattern": "\\{\"response\":.*\\}\\);",
