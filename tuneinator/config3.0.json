@@ -34,6 +34,7 @@
         },
     "spotify":
         {
-            "spotify_url_regex_pattern": "https:\\/\\/open\\.spotify\\.com\\/playlist\\/.*"
+            "client_id": "874010651bcf4480837e9565797d268d",
+            "client_secret": "bddb5973cda84e0eac01d144e1718fbd"
         }
 }
