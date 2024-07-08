@@ -35,6 +35,7 @@
     "spotify":
         {
             "client_id": "874010651bcf4480837e9565797d268d",
-            "client_secret": "bddb5973cda84e0eac01d144e1718fbd"
+            "client_secret": "bddb5973cda84e0eac01d144e1718fbd",
+            "playlist_parsing_pattern": "https:\/\/open\\.spotify\\.com\/playlist\/([^?\/]+)"
         }
 }
