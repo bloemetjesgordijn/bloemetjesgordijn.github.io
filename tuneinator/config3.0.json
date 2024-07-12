@@ -22,7 +22,7 @@
         {
             "check_bitrate": true,
             "min_frequency": 18000,
-            "naming_conventions": ["title - artist", "artist - title.mp3", "title - artist BPM", "artist - title BPM"],
+            "naming_conventions": ["title - artist", "artist - title.mp3", "title - artist BPM", "artist - title BPM"]
         },
     "logging":
         {
