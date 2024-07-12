@@ -4,12 +4,9 @@
         {
             "title": "Tuneinator 3.0",
             "header_text": ["Brauchen Sie Tunes Ja?"],
-            "theme": ["TealMono", "BrownBlue", "DarkTeal12", "DarkBlue14", "Green"],
-            "blocked": false,
             "blocked_text": "This version of Tuneinator has been disabled.",
             "allowed_modes": ["Single Thread", "Bounded Multithreading", "Unbounded Multithreading"],
-            "default_mode": "Unbounded Multithreading",
-            "csv_url": "https://watsonbox.github.io/exportify/"
+            "default_mode": "Unbounded Multithreading"
         },
     "api":
         {
