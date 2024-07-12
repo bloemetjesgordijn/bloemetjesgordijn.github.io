@@ -23,7 +23,6 @@
             "check_bitrate": true,
             "min_frequency": 18000,
             "naming_conventions": ["title - artist", "artist - title", "title - artist BPM", "artist - title BPM"],
-            "default_naming_convention": "title - artist"
         },
     "logging":
         {
