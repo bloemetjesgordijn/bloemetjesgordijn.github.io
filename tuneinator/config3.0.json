@@ -1,4 +1,5 @@
 {
+    "debug": true,
     "frontend":
         {
             "title": "Tuneinator 3.0",
