@@ -18,8 +18,6 @@
         },
     "downloading":
         {
-            "check_bitrate": true,
-            "min_frequency": 18000,
             "naming_conventions": ["title - artist.mp3", "artist - title.mp3", "title - artist BPM.mp3", "artist - title BPM.mp3"]
         },
     "logging":
