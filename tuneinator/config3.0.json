@@ -1,10 +1,7 @@
 {
-    "debug": true,
     "frontend":
         {
             "title": "Tuneinator 3.0",
-            "header_text": ["Brauchen Sie Tunes Ja?"],
-            "blocked_text": "This version of Tuneinator has been disabled.",
             "allowed_modes": ["Single Thread", "Bounded Multithreading", "Unbounded Multithreading"],
             "default_mode": "Unbounded Multithreading"
         },
