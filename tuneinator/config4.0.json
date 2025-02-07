@@ -1,0 +1,34 @@
+{
+    "debug": true,
+    "frontend":
+        {
+            "title": "Tuneinator 4.0",
+            "allowed_modes": ["Single Thread"],
+            "default_mode": "Single Thread"
+        },
+    "api":
+        {
+            "url": "https://2024.myfreemp3juices.cc//api/api_search.php",
+            "response_parsing_pattern": "\\{\"response\":.*\\}\\);",
+            "duration_tolerance": 0.2,
+            "max_tunes_to_consider": 2,
+            "allowed_error_retries": 7,
+            "retry_timeout": 0.1,
+            "trim_artists": true
+        },
+    "downloading":
+        {
+            "naming_conventions": ["title - artist.mp3", "artist - title.mp3", "title - artist BPM.mp3", "artist - title BPM.mp3"]
+        },
+    "logging":
+        {
+            "key1": "gAAAAABka4IDKQcqSB_Kj5_4KOzi9mrok4V7fo_BpRVX_r83w_jkgOaw2PA7ywm4yStm0PWqP5qrjCYPEFB6m2KuPoN6MNaMqeqRVSvvQxmliLzHP4C5JH0=",
+            "key2": "gAAAAABka4IDRrYQj-t-dCZJ3waIVUdqB3DbfVPGasPVmk-Qo415A8O3oOaHXuDfAYLIpMEImKcY0UtwOZYvq0l3SAV2IhbK0kOmLAXc9rGMxdob05Igxc8="
+        },
+    "spotify":
+        {
+            "client_id": "874010651bcf4480837e9565797d268d",
+            "client_secret": "bddb5973cda84e0eac01d144e1718fbd",
+            "playlist_parsing_pattern": "https:\/\/open\\.spotify\\.com\/playlist\/([^?\/]+)"
+        }
+}
